@@ -12,7 +12,6 @@ if errorlevel 1 (
     exit /b 1
 )
 
-setlocal enabledelayedexpansion
 set TEST_COUNT=0
 set FAIL_COUNT=0
 
